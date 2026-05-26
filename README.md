@@ -9,3 +9,4 @@
 - **Testing**: Jest, JUnit, k6, Apache JMeter  
 - **AI**: Codex, Claude Code
 
+[![Language Statistics](https://github-readme-stats.vercel.app/api?username=HoseokWon99)](https://github.com/anuraghazra/github-readme-stats)
